@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1200" height="720">    
+<entity position = "1" type = "canon"/>
+<entity position = "2" type = "bomb"/>
+<entity position = "3" type = "ball"/>
+<entity position = "4" type = "leftWall"/>
+<entity position = "5" type = "rightWall"/>
+</level>
